@@ -5,8 +5,9 @@ It also includes a tooltip that shows the county, population, longitude, and lat
 
 Files:
 1. index.html
-2. index.css
-3. index.js
+2. index.css (External Style sheet which is linked using `<link rel="stylesheet" type="text/css" href="index.css">`)
+3. index.js (I am also adding External java script using `<script type="text/javascript" src="./d3.v4.js">`.)
+4. d3.v4.js is a library for D3
 
 
 To run the project:
@@ -23,8 +24,6 @@ The Output will be
 
 
 
-Notes:
-The project uses external styling via CSS, linked using `<link rel="stylesheet" type="text/css" href="index.css">`.<br>
-The D3.js library is linked using `<script type="text/javascript" src="./d3.v4.js">`.
+
 
 
