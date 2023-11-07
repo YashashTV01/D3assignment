@@ -4,20 +4,23 @@ This project uses D3.js to visualize data from uk.json, plotting UK cities on a 
 It also includes a tooltip that shows the county, population, longitude, and latitude of the city on hover.
 
 Files:
-index.html
-index.css
-index.js
+1. index.html
+2. index.css
+3. index.js
+
 
 To run the project:
 
 1. Open index.html in Visual Studio.
 2. Click "Open with Live Server".
+
+
    
 
 The Output will be 
 
 <p align="center">
-  <img src="https://github.com/YashashTV01/D3assignment/raw/main/ukmap.png" alt="Uk Map" width="400"/>
+  <img src="https://github.com/YashashTV01/D3assignment/raw/main/ukmap.png" alt="Uk Map" width="200"/>
 </p>
 
 
