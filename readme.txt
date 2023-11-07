@@ -19,5 +19,4 @@ The project uses external styling via CSS, linked using `<link rel="stylesheet" 
 The D3.js library is linked using `<script type="text/javascript" src="./d3.v4.js">`.
 
 The Output will be 
-https://github.com/YashashTV01/D3assignment/edit/main/ukmap.png
-
+![Uk Map]()
