@@ -17,3 +17,6 @@ Notes:
 
 The project uses external styling via CSS, linked using `<link rel="stylesheet" type="text/css" href="index.css">`.
 The D3.js library is linked using `<script type="text/javascript" src="./d3.v4.js">`.
+
+The Output will be 
+C:\Users\yasha\OneDrive\Desktop\ukmaps
