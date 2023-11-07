@@ -19,15 +19,12 @@ To run the project:
 
 The Output will be 
 
-<p align="center">
   <img src="https://github.com/YashashTV01/D3assignment/raw/main/ukmap.png" alt="Uk Map" width="200"/>
-</p>
-
 
 
 
 Notes:
-The project uses external styling via CSS, linked using `<link rel="stylesheet" type="text/css" href="index.css">`.
+The project uses external styling via CSS, linked using `<link rel="stylesheet" type="text/css" href="index.css">`.<br>
 The D3.js library is linked using `<script type="text/javascript" src="./d3.v4.js">`.
 
 
