@@ -1,6 +1,6 @@
 UK Cities Plotting on Map
 
-This project uses D3.js to visualize data from uk.json, plotting UK cities on a map. 
+This project uses D3.js to visualize data from uk.json and also plotting UK cities on a map. <br>
 It also includes a tooltip that shows the county, population, longitude, and latitude of the city on hover.
 
 Files:
