@@ -7,7 +7,7 @@
 </head>
 <body>
     <input type="text" id="citiesNumber" placeholder="Enter number of cities or use the slider below"><br> <!-- A text input for entering the number of cities -->
-    <input type="range" id="citiesNumberSlider" min="1" max="500" value="50" oninput="updateCitiesNumber()"> <!-- A slider for selecting the number of cities -->
+    <input type="range" id="citiesNumberSlider" min="1" max="50" value="10" oninput="updateCitiesNumber()"> <!-- A slider for selecting the number of cities -->
     <button id="reloadButton" onclick="reloadData()">Refresh Cities</button> <!-- A button to refresh city data -->
     <div id="map"></div> <!-- A container for displaying the map -->
     <div class="tooltip" id="townDetailsTooltip"></div> <!-- A tooltip for showing details about towns on the map -->
